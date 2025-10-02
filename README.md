@@ -3,9 +3,12 @@
 <div align="center">
   <img src="https://github.com/OxWelsh.png" alt="Welsh Muhuri" width="150" height="150" style="border-radius: 50%; float: left; margin-right: 20px;"/>
 
+
 Computer Science student |  Working on Prompt Engineering  | Cyber Security Enthusiast
 I’m passionate about **ethical hacking**, **network defense**, and writing code that actually *does something cool*.  
 Currently working at GrowPick Limited as a Cyber Security Specialist.  
+
+</div>
 
 ---
 
