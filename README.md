@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Welsh Muhuri (0xWelsh)
 
 <div align="center">
-  <img src="https://github.com/OxWelsh.png" alt="Welsh Muhuri" width="150" height="150" style="border-radius: 50%; float: left; margin-right: 20px;"/>
+  <img src="./rick.png" alt="Welsh Muhuri" width="150" height="150" style="border-radius: 50%; float: left; margin-right: 20px;"/>
 
 
 Computer Science student |  Working on Prompt Engineering  | Cyber Security Enthusiast
