@@ -26,7 +26,8 @@ Currently working at GrowPick Limited as a Cyber Security Specialist.
 - 🕵**Penetration Testing** & real-world attack simulations  
 - **Cybersecurity automation** with Python & Bash  
 - **Full-stack development** (Node.js + React)  
-- **Network Security & Wireless Hacking** basics  
+- **Network Security & Wireless Hacking** basics
+- Building fun tools with Rust. Rust is underrated honestly
 
 ---
 
@@ -34,7 +35,11 @@ Currently working at GrowPick Limited as a Cyber Security Specialist.
 - Ethical Hacking & Vulnerability Research  
 - Open-source contributions (building tools for devs + hackers)  
 - Creating security-focused apps and CLIs  
-- Dreaming big — from East Africa to global impact  
+- Building something meaningful
+- Building writeups to guide other cybersecurity enthusiasts
+- Cruising highways with sport bikes (I got no bike at the moment) will buy one inshaAllah; S1000RR🙏
+- Creating indie games. I have only created one game; Dodge the Creeps (it's in godot-docs)
+- Perfumes, aspiring to have a collection of over 1000 perfumes.
 
 ---
 
