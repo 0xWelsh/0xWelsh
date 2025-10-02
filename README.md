@@ -73,6 +73,12 @@
 ![Stars](https://img.shields.io/github/stars/0xWelsh?affiliations=OWNER&style=for-the-badge&logo=github)
 ![Profile Views](https://komarev.com/ghpvc/?username=0xWelsh&label=Profile%20Views&color=blue&style=for-the-badge)
 
+<div>
+  <div style="display: inline-block; vertical-align: top; width: 150px;">
+    <img src="./rick.png" alt="Welsh Muhuri" width="150" style="border-radius: 50%;"/>
+    <img src="./mortynbg.png" alt="Morty" width="250" style="border-radius: 50%;"/>
+  </div>
+</div>
 
 
 ---
