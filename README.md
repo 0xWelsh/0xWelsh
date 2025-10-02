@@ -3,6 +3,7 @@
 <div>
   <div style="display: inline-block; vertical-align: top; width: 150px;">
     <img src="./rick.png" alt="Welsh Muhuri" width="150" style="border-radius: 50%;"/>
+    <img src="./hacked.gif" alt="Hacked animation" width="150" style="border-radius: 10px; margin-top: 10px;"/>
   </div>
   <div style="display: inline-block; vertical-align: top; width: calc(100% - 170px); padding-left: 20px;">
     <strong>Computer Science student | Working on Prompt Engineering | Cyber Security Enthusiast</strong><br/><br/>
@@ -12,6 +13,7 @@
 </div>
 
 ---
+
 
 ## Tech Stack
 
