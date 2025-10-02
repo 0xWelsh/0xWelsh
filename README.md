@@ -53,4 +53,12 @@ Currently working at GrowPick Limited as a Cyber Security Specialist.
 
 ---
 
+![Followers](https://img.shields.io/github/followers/0xWelsh?label=Followers&style=for-the-badge&logo=github)
+![Stars](https://img.shields.io/github/stars/0xWelsh?affiliations=OWNER&style=for-the-badge&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=0xWelsh&label=Profile%20Views&color=blue&style=for-the-badge)
+
+
+
+---
+
 *“Code is law. And Hackers are the Law Makers.”*  
