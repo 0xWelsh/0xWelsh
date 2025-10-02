@@ -1,19 +1,14 @@
-<div style="display: flex; align-items: center; gap: 20px;">
-  
-  <div style="flex-shrink: 0;">
-    <img src="./rick.png" alt="Welsh Muhuri" width="150" style="border-radius: 50%;"/>
-  </div>
+# Hey, I'm Welsh Muhuri (OxWelsh)
 
-  <div>
-    <h2 style="margin: 0;">Hey, I'm Welsh Muhuri (OxWelsh)</h2>
-    <p>
-      <strong>Computer Science student | Working on Prompt Engineering | Cyber Security Enthusiast</strong><br/><br/>
-      I'm passionate about <strong>ethical hacking</strong>, <strong>network defense</strong>, and writing code that actually <em>does something cool</em>.<br/><br/>
-      Currently working at GrowPick Limited as a Cyber Security Specialist.
-    </p>
-  </div>
-</div>
+<img src="./rick.png" alt="Welsh Muhuri" width="150" style="border-radius: 50%; float: left; margin-right: 20px; margin-bottom: 10px;"/>
 
+**Computer Science student | Working on Prompt Engineering | Cyber Security Enthusiast**
+
+I'm passionate about **ethical hacking**, **network defense**, and writing code that actually _does something cool_.
+
+Currently working at GrowPick Limited as a Cyber Security Specialist.
+
+<div style="clear: both;"></div>
 
 ---
 
