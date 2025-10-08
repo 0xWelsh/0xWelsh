@@ -16,6 +16,12 @@
 
 ---
 
+## See my TryHackMe profile
+<div>
+  <div style="display: inline-block; vertical-align: top; width: 150px;">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/0xWelsh.png" alt="TryHackMe Badge" />
+  </div>
+</div>
 
 ## Tech Stack
 
