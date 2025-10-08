@@ -16,9 +16,9 @@
 
 ---
 
-## See my TryHackMe profile
+## My TryHackMe profile
 <div>
-  <div style="display: inline-block; vertical-align: top; width: 150px;">
+  <div style="display: inline-block; vertical-align: top; width: 250px;">
     <img src="https://tryhackme-badges.s3.amazonaws.com/0xWelsh.png" alt="TryHackMe Badge" />
   </div>
 </div>
