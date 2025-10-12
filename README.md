@@ -16,12 +16,7 @@
 
 ---
 
-## My TryHackMe profile
-<div>
-  <div style="display: inline-block; vertical-align: top; width: 150px;">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/0xWelsh.png" alt="TryHackMe Badge" />
-  </div>
-</div>
+
 
 ## Tech Stack
 
@@ -72,6 +67,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/welsh-muhuri-985a652b4)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maguamuhuri@gmail.com)  
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/0xWelsh)  
+
+## TryHackMe
+<div>
+  <div style="display: inline-block; vertical-align: top; width: 150px;">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/0xWelsh.png" alt="TryHackMe Badge" />
+  </div>
+</div>
 
 ---
 
