@@ -35,11 +35,12 @@
 ---
 
 ## Currently Exploring
-- 🕵**Penetration Testing** & real-world attack simulations  
+- **Penetration Testing** & real-world attack simulations  
 - **Cybersecurity automation** with Python & Bash  
 - **Full-stack development** (Node.js + React)  
 - **Network Security & Wireless Hacking** basics
-- Building fun tools with Rust. Rust is underrated honestly
+- **Building fun tools with Rust**. Rust is underrated honestly
+- **Python Art**
 
 ---
 
