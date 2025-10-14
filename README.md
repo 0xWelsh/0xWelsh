@@ -8,7 +8,7 @@
     <img src="./hacked.gif" alt="Hacked animation" style="width: 250px; border-radius: 10px;"/>-->
   </div>
   <div style="display: inline-block; vertical-align: top; width: calc(100% - 170px); padding-left: 20px;">
-    <strong>Computer Science student | Working on Prompt Engineering | Cyber Security Enthusiast</strong><br/><br/>
+    <strong>Computer Science student | AI | Cyber Security Enthusiast</strong><br/><br/>
     I'm passionate about <strong>ethical hacking</strong>, <strong>network defense</strong>, and writing code that actually <em>does something cool</em>.<br/><br/>
     Currently working at GrowPick Limited as a Cyber Security Specialist.
   </div>
@@ -93,3 +93,4 @@
 ---
 
 *“Code is law. And Hackers are the Law Makers.”*  
+*"Say No to Vibe Coding"*
