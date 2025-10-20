@@ -1,7 +1,7 @@
 # Hey, I'm Welsh Muhuri ♦
 <div>
   <div style="display: inline-block; vertical-align: top; width: 150px;">
-    <img src="./bladerunner.png" alt="Welsh Muhuri" width="300" style="border-radius: 50%;"/>
+    <!--<img src="./bladerunner.png" alt="Welsh Muhuri" width="300" style="border-radius: 50%;"/>-->
     <!--<img src="./rick.png" alt="Welsh Muhuri" width="150" style="border-radius: 50%;"/>
     <img src="./mortynbg.png" alt="Morty" width="250" style="border-radius: 50%;"/>
     <img src="./hacked.gif" alt="Hacked animation" style="width: 250px; border-radius: 10px;"/>-->
