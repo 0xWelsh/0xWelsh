@@ -93,3 +93,7 @@
 
 *“Code is law. And Hackers are the Law Makers.”*  
 *"Say No to Vibe Coding"*
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
