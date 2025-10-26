@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20I'm%20Welsh%20Muhuri%20⚡&animation=fadeIn&type=waving&color=gradient&height=120&fontColor=ffffff&fontAlignY=35"/>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/91379432/209701246-049a9d59-bcc8-4b63-bb36-c3082cb2da6e.gif" width="400"/>
+</p>
+
+---
+
 # Hey, I'm Welsh Muhuri ♦
 <div>
   <div style="display: inline-block; vertical-align: top; width: 150px;">
