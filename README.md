@@ -8,11 +8,26 @@
   <img src="https://user-images.githubusercontent.com/91379432/209701246-049a9d59-bcc8-4b63-bb36-c3082cb2da6e.gif" width="400"/>
 </p>
 
+<div>
+  <div style="display: inline-block; vertical-align: top; width: 150px;">
+    <!--<img src="./bladerunner.png" alt="Welsh Muhuri" width="300" style="border-radius: 50%;"/>-->
+    <!--<img src="./rick.png" alt="Welsh Muhuri" width="150" style="border-radius: 50%;"/>
+    <img src="./mortynbg.png" alt="Morty" width="250" style="border-radius: 50%;"/>
+    <img src="./hacked.gif" alt="Hacked animation" style="width: 250px; border-radius: 10px;"/>-->
+  </div>
+  <div style="display: inline-block; vertical-align: top; width: calc(100% - 170px); padding-left: 20px;">
+    <strong>Computer Science student | AI | Cyber Security Enthusiast</strong><br/><br/>
+    I'm passionate about <strong>ethical hacking</strong>, <strong>network defense</strong>, and writing code that actually <em>does something cool</em>.<br/><br/>
+    Currently working at GrowPick Limited as a Cyber Security Specialist.
+  </div>
+</div>
+
 ---
 
-## 🧠 Tech Arsenal
+## Tech Stack
 
-<p align="center">
+### Programming Languages
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="45" height="45"/>
@@ -23,9 +38,42 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
 </p>
 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Tools & Platforms
+![Linux](https://img.shields.io/badge/Linux-333?style=for-the-badge&logo=linux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
 ---
 
-## 📈 GitHub Analytics
+## Currently Exploring
+- **Penetration Testing** & real-world attack simulations  
+- **Cybersecurity automation** with Python & Bash  
+- **Full-stack development** (Node.js + React)  
+- **Network Security & Wireless Hacking** basics
+- **Building fun tools with Rust**. Rust is underrated honestly
+- **Python Art**
+
+---
+
+## Interests
+- Ethical Hacking & Vulnerability Research  
+- Open-source contributions (building tools for devs + hackers)  
+- Creating security-focused apps and CLIs  
+- Building something meaningful
+- Building writeups to guide other cybersecurity enthusiasts
+- Cruising highways with sport bikes (I got no bike at the moment) will buy one inshaAllah; S1000RR🙏
+- Creating indie games. I have only created one game; Dodge the Creeps (it's in godot-docs)
+- Perfumes, aspiring to have a collection of over 1000 perfumes.
+
+---
+
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0xWelsh&show_icons=true&theme=radical&hide_border=true" width="48%"/>
@@ -38,15 +86,7 @@
 
 ---
 
-## 🕹️ TryHackMe
-
-<p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/0xWelsh.png" alt="TryHackMe Badge" width="200"/>
-</p>
-
----
-
-## 🤝 Connect
+## Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/welsh-muhuri-985a652b4">
@@ -60,10 +100,16 @@
   </a>
 </p>
 
+## TryHackMe
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/0xWelsh.png" alt="TryHackMe Badge" width="200"/>
+</p>
+
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=0xWelsh&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/github-0xWelsh-blue?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/github/followers/0xWelsh?label=Followers&style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/github/stars/0xWelsh?affiliations=OWNER&style=for-the-badge&logo=github"/>
 </p>
@@ -74,6 +120,9 @@
 </div>
 
 ---
+
+*"Code is law. And Hackers are the Law Makers."*  
+*"Say No to Vibe Coding"*
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
