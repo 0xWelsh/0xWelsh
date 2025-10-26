@@ -59,9 +59,9 @@
 - Creating security-focused apps and CLIs  
 - Building something meaningful
 - Building writeups to guide other cybersecurity enthusiasts
-- Cruising highways with sport bikes (I got no bike at the moment) will buy one inshaAllah; S1000RR🙏
+- Cruising with sport bikes (I got no bike at the moment)
 - Creating indie games. I have only created one game; Dodge the Creeps (it's in godot-docs)
-- Perfumes, aspiring to have a collection of over 1000 perfumes.
+- Perfume collection
 
 ---
 
