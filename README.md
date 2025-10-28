@@ -13,7 +13,7 @@
   </div>
 </div>
 
-![Floating Islands](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+![Neon Grid](https://media.giphy.com/media/xT9C25Q7ebDp6f2D8A/giphy.gif)
 
 ---
 
