@@ -65,9 +65,9 @@
 
 ## GitHub Stats
 
-![0xWelsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xWelsh&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xWelsh&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xWelsh&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xWelsh&layout=compact&theme=dark)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=0xWelsh&theme=dark)
 
 ---
 
