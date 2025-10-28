@@ -111,5 +111,7 @@
 *"Say No to Vibe Coding"*
 
 <div align="center">
+  
 ![Anime Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+
 </div>
