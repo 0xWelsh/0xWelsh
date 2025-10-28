@@ -13,8 +13,6 @@
   </div>
 </div>
 
-![Thumbs Up](https://media.giphy.com/media/l4HnKwiJJaJQB04Zq/giphy.gif)
-
 ---
 
 ## Tech Stack
@@ -112,5 +110,6 @@
 *“Code is law. And Hackers are the Law Makers.”*  
 *"Say No to Vibe Coding"*
 
-
+<div align="center">
 ![Anime Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+</div>
