@@ -108,7 +108,7 @@
 *“Code is law. And Hackers are the Law Makers.”*  
 *"Say No to Vibe Coding"*
 
-![Tanjiro](https://media.giphy.com/media/Y4bzz6Vl8tCem4Rk6C/giphy.gif)
+![Levi](https://media.giphy.com/media/l4FGpP4lxGGgK5CBW/giphy.gif)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
