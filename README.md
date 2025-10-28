@@ -13,7 +13,7 @@
   </div>
 </div>
 
-![Deku](https://media.giphy.com/media/l4FGI8GoTL7N0DsyA/giphy.gif)
+![Cyberpunk City](https://media.giphy.com/media/3o72FfM5HJydzafgUE/giphy.gif)
 
 ---
 
