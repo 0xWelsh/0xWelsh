@@ -15,13 +15,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-</div>
-
----
-
-
 ## Tech Stack
 
 ### Programming Languages
@@ -71,8 +64,6 @@
 ## GitHub Stats
 
 ![Custom Stats](https://github-readme-stats.vercel.app/api?username=0xWelsh&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
-
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=0xWelsh&theme=react-dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xWelsh&layout=compact&theme=dark)
 
