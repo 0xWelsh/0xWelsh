@@ -13,7 +13,7 @@
   </div>
 </div>
 
-![Cyberpunk City](https://media.giphy.com/media/3o72FfM5HJydzafgUE/giphy.gif)
+![Anime Rain](https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif)
 
 ---
 
