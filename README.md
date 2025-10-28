@@ -13,7 +13,7 @@
   </div>
 </div>
 
-![Hacker](https://media.giphy.com/media/q217GUnfKAmJlF1bVf/giphy.gif)
+![Naruto](https://media.giphy.com/media/10zsjaH4g1VKly/giphy.gif)
 
 ---
 
