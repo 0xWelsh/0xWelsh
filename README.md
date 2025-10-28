@@ -13,7 +13,7 @@
   </div>
 </div>
 
-![Anime Rain](https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif)
+![Floating Islands](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 ---
 
