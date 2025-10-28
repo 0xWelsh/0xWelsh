@@ -61,11 +61,4 @@ CodeChef, LeetCode, TryHackMe
 
 ---
 
-## Cryptocurrency
-
-Ethereum, Tether, Binance, Bitcoin
-
----
-
-"Code is law. And Hackers are the Law Makers."
-"Say No to Vibe Coding"
+*"Code is law. And Hackers are the Law Makers."*
