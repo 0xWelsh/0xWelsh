@@ -66,7 +66,9 @@
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xWelsh&show_icons=true&theme=dark)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xWelsh&layout=compact&theme=dark)
+
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=0xWelsh&theme=dark)
 
 ---
