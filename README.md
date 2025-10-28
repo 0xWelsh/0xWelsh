@@ -1,4 +1,4 @@
-# 0xWelsh
+# <img src="rick.png" alt="icon" width="30" height="30" style="vertical-align: middle;" /> 0xWelsh
 
 Computer Science student | AI | Cyber Security Enthusiast
 
