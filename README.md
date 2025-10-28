@@ -13,7 +13,7 @@
   </div>
 </div>
 
-![Naruto](https://media.giphy.com/media/10zsjaH4g1VKly/giphy.gif)
+![Deku](https://media.giphy.com/media/l4FGI8GoTL7N0DsyA/giphy.gif)
 
 ---
 
