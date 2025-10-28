@@ -12,6 +12,7 @@
     Currently working at GrowPick Limited as a Cyber Security Specialist.
   </div>
 </div>
+![Hacker](https://media.giphy.com/media/q217GUnfKAmJlF1bVf/giphy.gif)
 
 ---
 
