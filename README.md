@@ -16,7 +16,7 @@
 ---
 
 <H3 align="center">Tech Stack</H3>
-<H1>Programming Languages</H1>
+<H1 align="center">Programming Languages</H1>
 <div align="center">
   
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
