@@ -1,12 +1,12 @@
-# Hey, I'm Welsh Muhuri ♦
-<div>
+<H3 align="center">0xWelsh</H3>
+<div align="center">
   <div style="display: inline-block; vertical-align: top; width: 150px;">
     <!--<img src="./bladerunner.png" alt="Welsh Muhuri" width="300" style="border-radius: 50%;"/>-->
     <!--<img src="./rick.png" alt="Welsh Muhuri" width="150" style="border-radius: 50%;"/>
     <img src="./mortynbg.png" alt="Morty" width="250" style="border-radius: 50%;"/>
     <img src="./hacked.gif" alt="Hacked animation" style="width: 250px; border-radius: 10px;"/>-->
   </div>
-  <div style="display: inline-block; vertical-align: top; width: calc(100% - 170px); padding-left: 20px;">
+  <div style="display: inline-block; vertical-align: top; width: calc(100% - 170px); padding-left: 20px;" align="center">
     <strong>Computer Science student | AI | Cyber Security Enthusiast</strong><br/><br/>
     I'm passionate about <strong>ethical hacking</strong>, <strong>network defense</strong>, and writing code that actually <em>does something cool</em>.<br/><br/>
     Currently working at GrowPick Limited as a Cyber Security Specialist.
