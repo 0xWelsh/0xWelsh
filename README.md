@@ -13,7 +13,7 @@
   </div>
 </div>
 
-![Neon Grid](https://media.giphy.com/media/xT9C25Q7ebDp6f2D8A/giphy.gif)
+![Thumbs Up](https://media.giphy.com/media/l4HnKwiJJaJQB04Zq/giphy.gif)
 
 ---
 
