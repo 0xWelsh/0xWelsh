@@ -65,7 +65,7 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xWelsh&show_icons=true&theme=dark)
+![Custom Stats](https://github-readme-stats.vercel.app/api?username=0xWelsh&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xWelsh&layout=compact&theme=dark)
 
