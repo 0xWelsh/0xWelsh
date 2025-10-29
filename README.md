@@ -49,6 +49,8 @@ CodeChef, LeetCode, TryHackMe
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xWelsh&layout=compact&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000)
 
+![Hackclub Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=6088&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=ambient_gradient)
+
 ---
 
 ## Connect
