@@ -53,6 +53,12 @@ CodeChef, LeetCode, TryHackMe
 
 ---
 
+## Wakatime Stats
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=radical)
+
+---
+
 ## Connect
 
 [LinkedIn](https://linkedin.com/in/welsh-muhuri-985a652b4)
