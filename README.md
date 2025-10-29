@@ -1,10 +1,6 @@
 # <img src="rick.png" alt="icon" width="30" height="30" style="vertical-align: middle;" /> 0xWelsh
 
-Computer Science student | AI | Cyber Security Enthusiast
-
-I'm passionate about ethical hacking, network defense, and writing code that actually does something cool.
-
-Currently working at GrowPick Limited as a Cyber Security Specialist.
+**Security Engineer**
 
 ---
 
