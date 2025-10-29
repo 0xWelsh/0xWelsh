@@ -53,12 +53,6 @@ CodeChef, LeetCode, TryHackMe
 
 ---
 
-## Wakatime Stats
-
-{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
-
----
-
 ## Connect
 
 [LinkedIn](https://linkedin.com/in/welsh-muhuri-985a652b4)
