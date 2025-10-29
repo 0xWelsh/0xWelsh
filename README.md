@@ -55,7 +55,7 @@ CodeChef, LeetCode, TryHackMe
 
 ## Wakatime Stats
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=radical)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=0xWelsh&layout=compact&theme=radical)
 
 ---
 
