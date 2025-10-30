@@ -54,10 +54,21 @@ CodeChef, LeetCode, TryHackMe
 [LinkedIn](https://linkedin.com/in/welsh-muhuri-985a652b4)
 [Email](mailto:maguamuhuri@gmail.com)
 
-[TryHackMe](https://tryhackme.com/p/0xWelsh)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-0xWelsh-red?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/0xWelsh)
-[![Rank](https://img.shields.io/badge/Rank-Hacker-blue?style=flat-square)]()
-[![Rooms Completed](https://img.shields.io/badge/Rooms-50+-brightgreen?style=flat-square)]()
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://tryhackme.com/p/0xWelsh">
+        <img src="https://tryhackme-badges.s3.amazonaws.com/0xWelsh.png" alt="TryHackMe Badge" width="200">
+      </a>
+    </td>
+    <td align="center">
+      <strong>TryHackMe Profile</strong><br/>
+      <a href="https://tryhackme.com/p/0xWelsh">@0xWelsh</a><br/>
+      <img src="https://img.shields.io/badge/Rank-Hacker-red?style=flat-square">
+      <img src="https://img.shields.io/badge/Rooms-50+-green?style=flat-square">
+    </td>
+  </tr>
+</table>
 
 
 ---
