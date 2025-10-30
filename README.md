@@ -55,9 +55,8 @@ CodeChef, LeetCode, TryHackMe
 [Email](mailto:maguamuhuri@gmail.com)
 [TryHackMe](https://tryhackme.com/p/0xWelsh)
 
-<div>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3961928" style='border:none;'></iframe>
-</div>
+![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3961928")
+
 
 ---
 
