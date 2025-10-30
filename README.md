@@ -54,21 +54,19 @@ CodeChef, LeetCode, TryHackMe
 [LinkedIn](https://linkedin.com/in/welsh-muhuri-985a652b4)
 [Email](mailto:maguamuhuri@gmail.com)
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://tryhackme.com/p/0xWelsh">
-        <img src="https://tryhackme-badges.s3.amazonaws.com/0xWelsh.png" alt="TryHackMe Badge" width="200">
-      </a>
-    </td>
-    <td align="center">
-      <strong>TryHackMe Profile</strong><br/>
-      <a href="https://tryhackme.com/p/0xWelsh">@0xWelsh</a><br/>
-      <img src="https://img.shields.io/badge/Rank-Hacker-red?style=flat-square">
-      <img src="https://img.shields.io/badge/Rooms-50+-green?style=flat-square">
-    </td>
-  </tr>
-</table>
+---
+
+## TryHackMe Live Stats
+
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/0xWelsh.png)
+
+**Live Stats:**
+- **Rank:** ![Rank](https://img.shields.io/badge/Rank-Hacker-red)
+- **Badges Earned:** ![Badges](https://img.shields.io/badge/Badges-15+-brightgreen)
+- **Rooms Completed:** ![Rooms](https://img.shields.io/badge/Rooms-50+-blue)
+- **Streak:** ![Streak](https://img.shields.io/badge/Current_Streak-7_days-orange)
+
+[View Full Profile](https://tryhackme.com/p/0xWelsh)
 
 
 ---
